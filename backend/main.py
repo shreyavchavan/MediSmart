@@ -31,7 +31,7 @@ app.add_middleware(
 )
 
 # Configure Gemini API
-GEMINI_API_KEY = "AIzaSyA81BhVCBvHv_naFg1aflaPIcVw0k4cyXg"
+GEMINI_API_KEY = "xyz"
 IMAGE_API_KEY = "xxyyzz"
 genai.configure(api_key=GEMINI_API_KEY)
 
